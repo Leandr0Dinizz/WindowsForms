@@ -59,6 +59,12 @@ namespace Projeto_WindowsForm
             string cid = cidades.Text;
             string est = estados.Text;
             bd.inserir(cod, name, tel, cid, est); // inserindo no BD
+
+            codigos.Text = "";
+            nomes.Text = "";
+            telefone.Text = "";
+            cidades.Text = "";
+            estados.Text = "";
         }//fim botao cadastrar
 
         private void voltar_Click(object sender, EventArgs e)

@@ -43,9 +43,17 @@ namespace Projeto_WindowsForm
             dados = "('" + codigo + "','" + nome + "','" + telefone + "','" + cidade + "','" + estado + "')";
             sql = "insert into pessoa(codigo, nome, telefone, cidade, estado) values " + dados;
 
-            MySqlCommand conn = new MySqlCommand(sql, conexao);//prepara o comando no banco
-            MessageBox.Show("1 Dado Inserido" + conn.ExecuteNonQuery());
 
+            try
+            {
+                MySqlCommand conn = new MySqlCommand(sql, conexao);//prepara o comando no banco
+                MessageBox.Show("1 Dado Inserido" + conn.ExecuteNonQuery() + "Dado inserido!");
+            }catch(Exception erro)
+            {
+
+                MessageBox.Show("Algo deu errado!\n\n" + erro);
+
+            }
 
         }//fim do inserir
 
