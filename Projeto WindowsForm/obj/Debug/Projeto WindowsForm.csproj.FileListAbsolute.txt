@@ -1,0 +1,44 @@
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\Projeto WindowsForm.exe.config
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\Projeto WindowsForm.exe
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\Projeto WindowsForm.pdb
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\obj\Debug\Projeto WindowsForm.csproj.AssemblyReference.cache
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\obj\Debug\Projeto WindowsForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\obj\Debug\Projeto_WindowsForm.Form1.resources
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\obj\Debug\Projeto_WindowsForm.Properties.Resources.resources
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\obj\Debug\Projeto WindowsForm.csproj.GenerateResource.cache
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\obj\Debug\Projeto WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\obj\Debug\Projeto WindowsForm.exe
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\obj\Debug\Projeto WindowsForm.pdb
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\obj\Debug\Projeto_WindowsForm.Cadastrar.resources
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\Google.Protobuf.dll
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\MySql.Data.dll
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\System.Buffers.dll
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\System.IO.Pipelines.dll
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\System.Memory.dll
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\ZstdSharp.dll
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\Google.Protobuf.pdb
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\Google.Protobuf.xml
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\MySql.Data.xml
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\System.Buffers.xml
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\System.IO.Pipelines.xml
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\System.Memory.xml
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\leandro.dmenezes\source\repos\Projeto WindowsForm\Projeto WindowsForm\obj\Debug\Projeto WindowsForm.csproj.CopyComplete
